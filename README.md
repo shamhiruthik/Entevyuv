@@ -15,8 +15,10 @@ content strategies accordingly.
 This dataset contains two files for analyzing the relationship between the popularity of a certain
 video, the most relevant/liked comments of said video and like counts
 ## File Descriptions
+
 `videos-stats.csv:`This file contains some basic information about each video, such as the title, likes, views,
 keyword, and comment count.
+
 `comments.csv:` For each video in videos-stats.csv, comments.csv contains the top ten most relevant
 comments as well as said comments' sentiments and likes.
 
