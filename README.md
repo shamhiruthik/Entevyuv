@@ -1,4 +1,4 @@
-## Comment2Likes: Estimating Video Likesusing Comment Data - `completed`
+## Comment2Likes: Estimating Video Likes using Comment Data - `completed`
 ### Author - Sham Hiruthik
 
 ## Problem Statement:
