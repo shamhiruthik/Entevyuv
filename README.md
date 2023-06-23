@@ -1,5 +1,5 @@
 ## Comment2Likes: Estimating Video Likesusing Comment Data - `completed`
-## Author - Sham Hiruthik
+### Author - Sham Hiruthik
 
 ## Problem Statement:
 
