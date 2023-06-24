@@ -25,7 +25,7 @@ comments as well as said comments' sentiments and likes.
 ## Column Descriptions
 ### videos-stats.csv:
 
-● Title: Video Title.
+● Title: Video Title
 ● Video ID: The Video Identifier.
 ● Published At: The date the video was published in YYYY-MM-DD.
 ● Keyword: The keyword associated with the video.
